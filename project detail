@@ -1,0 +1,74 @@
+// map/filter/reduce/find/every/forEach
+// Implement these methods 
+
+// for-loop - Browser
+// reduce - Browser
+
+
+[1,2,3,4] = sum?
+
+
+for loop
+
+const inpArr = [1,2,3,4, ...n];
+
+let rst = 0;
+for(let i=0; i< inpArr.length; i +=1){
+    //
+    rst += inpArr[i];
+}
+// nodejs
+150 mseconds
+n times - operations
+return rst;
+
+let rst1 = inpArr.reduce((acc,currentVal)=> {
+    return acc + currentVal;
+    forEach
+}, 0);
+DSA , Big O
+1000 msec
+
+Software Engineer - scale 1 - [FE, Nodejs [BE]] , [getting a job]
+
+Software Engineer - 5-6 years - scale 2 [ 2x+ oppurtunuties]
+DSA, Big O [FE [programming]] - not mandatory especially FE [Google]
+
+ 1 -> 2 ->MNC[..]
+ Stanford CSE, Udemy, LeetCode/HackerRank/Interviewbit
+
+
+const val = someArrManipulation();
+if(val.length>0){
+
+}
+
+
+function someArrManipulation (){
+    const EMPTY_OBJ = {};
+    const resArr = [];
+
+    if(null) return resArr;
+
+    const res = someMethod();
+
+    if(!res) return [{}];
+  
+
+    if(!res) return [];
+    if(!res) return [];
+
+// resArr -> []
+    if(true){
+        resArr.push(..)
+
+
+
+    }
+
+
+
+
+
+    return resArr;
+}
